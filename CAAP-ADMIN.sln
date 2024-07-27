@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAAP-ADMIN", "CAAP-ADMIN.csproj", "{C798FE2B-5F19-4BF1-BD6C-72C002B259C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C798FE2B-5F19-4BF1-BD6C-72C002B259C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C798FE2B-5F19-4BF1-BD6C-72C002B259C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C798FE2B-5F19-4BF1-BD6C-72C002B259C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C798FE2B-5F19-4BF1-BD6C-72C002B259C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6617B012-33C9-49C0-9F5B-8B19B404A8A9}
+	EndGlobalSection
+EndGlobal
